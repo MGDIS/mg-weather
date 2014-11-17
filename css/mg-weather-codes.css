@@ -1,0 +1,18 @@
+
+.mg-weather-sun:before { content: '\e800'; } /* '' */
+.mg-weather-cloud-sun-filled:before { content: '\e801'; } /* '' */
+.mg-weather-cloud-filled:before { content: '\e802'; } /* '' */
+.mg-weather-sun-filled:before { content: '\e803'; } /* '' */
+.mg-weather-cloud:before { content: '\e804'; } /* '' */
+.mg-weather-moon:before { content: '\e805'; } /* '' */
+.mg-weather-rain:before { content: '\e806'; } /* '' */
+.mg-weather-cloud-sun:before { content: '\e807'; } /* '' */
+.mg-weather-drizzle:before { content: '\e808'; } /* '' */
+.mg-weather-snow:before { content: '\e809'; } /* '' */
+.mg-weather-cloud-flash:before { content: '\e80a'; } /* '' */
+.mg-weather-cloud-wind:before { content: '\e80b'; } /* '' */
+.mg-weather-temperatire:before { content: '\e80c'; } /* '' */
+.mg-weather-cloud-flash-filled:before { content: '\e80d'; } /* '' */
+.mg-weather-rain-filled:before { content: '\e80e'; } /* '' */
+.mg-weather-snow-heavy-filled:before { content: '\e80f'; } /* '' */
+.mg-weather-umbrella:before { content: '\e810'; } /* '' */
