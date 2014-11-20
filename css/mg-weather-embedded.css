@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'mg-weather';
-  src: url('../font/mg-weather.eot?21513701');
-  src: url('../font/mg-weather.eot?21513701#iefix') format('embedded-opentype'),
-       url('../font/mg-weather.svg?21513701#mg-weather') format('svg');
+  src: url('../fonts/mg-weather.eot?21513701');
+  src: url('../fonts/mg-weather.eot?21513701#iefix') format('embedded-opentype'),
+       url('../fonts/mg-weather.svg?21513701#mg-weather') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'mg-weather';
-    src: url('../font/mg-weather.svg?21513701#mg-weather') format('svg');
+    src: url('../fonts/mg-weather.svg?21513701#mg-weather') format('svg');
   }
 }
 */
